@@ -90,17 +90,17 @@ jupyter notebook notebooks/parameter_tuning_and_segmentation_examples.ipynb
 
 ### Canny Edge Detection
 <div align="center">
-    <img src="data\processed\canny_before_closing1.png" alt="Canny Kenar Tespiti Sonucu" width="400">
+    <img src="data\processed\canny_before_closing1.png" alt="Canny Kenar Tespiti Sonucu" width="450">
 </div>
 
 ### K-Means Segmentation
 <div align="center">
-    <img src="data\processed\k-means_before_closing1.png" alt="K-Means Kümeleme Sonucu" width="400">
+    <img src="data\processed\k-means_before_closing1.png" alt="K-Means Kümeleme Sonucu" width="450">
 </div>
 
 ### Watershed Segmentation
 <div align="center">
-    <img src="data\processed\Watershed_before_closing1.png" alt="Watershed Segmentasyon Sonucu" width="400">
+    <img src="data\processed\Watershed_before_closing1.png" alt="Watershed Segmentasyon Sonucu" width="450">
 </div>
 
 
