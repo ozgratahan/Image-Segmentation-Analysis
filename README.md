@@ -95,7 +95,7 @@ jupyter notebook notebooks/parameter_tuning_and_segmentation_examples.ipynb
 
 ### K-Means Segmentation
 <div align="center">
-    <img src="data\processed\k-means_before_closing1.png" alt="K-Means Kümeleme Sonucu" width="450">
+    <img src="data\processed\KMeans_before_closing1.png" alt="K-Means Kümeleme Sonucu" width="450">
 </div>
 
 ### Watershed Segmentation
